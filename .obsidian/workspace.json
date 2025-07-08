@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "196b4c6f14e3b5ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "46c6b4f6edeb2fb9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed4a3ec36a0646ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Party/Mudan.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mudan"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cea2ae30384203c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b97ebac2b24e06f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c19c50070cb55ad4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Dateiexplorer"
+            }
+          },
+          {
+            "id": "fecbc8937c19f8ef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Suchen"
+            }
+          },
+          {
+            "id": "c63b94f3b48b31dd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Lesezeichen"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "29f2ceb4adb295a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "1bfe39e4040925f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f0e66109489553a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Party/Rhazzek.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rückverweise für Rhazzek"
+            }
+          },
+          {
+            "id": "77ef15e90ade3d80",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Party/Rhazzek.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Ausgehende Links von Rhazzek öffnen"
+            }
+          },
+          {
+            "id": "c10a0466a764de0c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7eb10beadcaa2b87",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Party/Rhazzek.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Gliederung von Rhazzek"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graphen-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false
+    }
+  },
+  "active": "ed4a3ec36a0646ec",
+  "lastOpenFiles": [
+    "Drachen/Bahamut, der Platin Herr.md",
+    "Party/Thalorin Mareveil.md",
+    "Party/Friedhelm Brandgoldle.md",
+    "Party/Mudan.md",
+    "Party/Rhazzek.md",
+    "Drachen/Tiamat, die Fünfköpfige Königin.md",
+    "Drachen",
+    "Drachengeborener.md",
+    "Besondere Ereignisse",
+    "Story",
+    "Willkommen.md",
+    "Besondere Gegner",
+    "Wichtige Items",
+    "Orte",
+    "NPC",
+    "Party"
+  ]
+}
