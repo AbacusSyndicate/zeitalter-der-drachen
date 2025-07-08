@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Party/Mudan.md",
+                "file": "NPC/Freundlich/Anführer des Trupps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mudan"
+              "title": "Anführer des Trupps"
             }
           }
         ]
@@ -171,21 +171,34 @@
   },
   "active": "ed4a3ec36a0646ec",
   "lastOpenFiles": [
+    "NPC/Tot/Feindlich/Marvin.md",
+    "NPC/Tot/Feindlich",
+    "NPC/Tot",
     "Drachen/Bahamut, der Platin Herr.md",
+    "Drachen/Tiamat, die Fünfköpfige Königin.md",
+    "Gruppen/Feindlich/Armee der Askaari.md",
+    "Gruppen/Feindlich/Chromatische Drachen.md",
+    "Gruppen/Freundlich/Metallische Drachen.md",
+    "Wichtige Ereignisse/2. Der Angriff auf Hopekeep.md",
+    "Wichtige Ereignisse/1. Tod und Wiedergeburt.md",
+    "Wichtige Items/Cloak of Protection.md",
+    "Wichtige Items/Boots of Elvenkind.md",
+    "Wichtige Items/Sending Stones.md",
+    "NPC/Feindlich",
+    "NPC/Freundlich",
+    "Orte/Hopekeep.md",
+    "NPC/Freundlich/Anführer des Trupps.md",
+    "Gruppen/Neutral",
+    "Gruppen/Freundlich",
+    "Gruppen/Feindlich",
+    "Gruppen/Drachen",
+    "Gruppen",
+    "Party/Mudan.md",
+    "Wichtige Ereignisse",
     "Party/Thalorin Mareveil.md",
     "Party/Friedhelm Brandgoldle.md",
-    "Party/Mudan.md",
     "Party/Rhazzek.md",
-    "Drachen/Tiamat, die Fünfköpfige Königin.md",
-    "Drachen",
     "Drachengeborener.md",
-    "Besondere Ereignisse",
-    "Story",
-    "Willkommen.md",
-    "Besondere Gegner",
-    "Wichtige Items",
-    "Orte",
-    "NPC",
-    "Party"
+    "Willkommen.md"
   ]
 }

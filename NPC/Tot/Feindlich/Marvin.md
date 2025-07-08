@@ -1,0 +1,1 @@
+Ein Zwerg, der die Party beim [[2. Der Angriff auf Hopekeep|Angriff auf Hopekeep]] hintergangen hat und mit seinem Leben bezahlt hat. Er war zuvor im Gefängnis wegen Verrats an [[Hopekeep]].
