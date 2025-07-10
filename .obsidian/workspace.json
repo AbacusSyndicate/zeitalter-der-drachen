@@ -11,10 +11,14 @@
             "id": "ed4a3ec36a0646ec",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graphansicht"
+              "type": "markdown",
+              "state": {
+                "file": "Unbenannt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unbenannt"
             }
           }
         ]
@@ -175,8 +179,9 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "f231d3a115c89ec9",
+  "active": "ed4a3ec36a0646ec",
   "lastOpenFiles": [
+    "Unbenannt.md",
     "Test/Test.md",
     "Test",
     "Party/Thalorin Mareveil.md",
