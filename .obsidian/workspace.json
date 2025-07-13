@@ -11,10 +11,14 @@
             "id": "ed4a3ec36a0646ec",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graphansicht"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Wichtige Ereignisse/1. Tod und Wiedergeburt.md",
+                "bFile": "Wichtige Ereignisse/1. Tod und Wiedergeburt.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: 1. Tod und Wiedergeburt"
             }
           }
         ]
@@ -177,8 +181,9 @@
   },
   "active": "ed4a3ec36a0646ec",
   "lastOpenFiles": [
-    "README.md",
     "NPC/Freundlich/Kharzokk.md",
+    "NPC/Freundlich/Derek.md",
+    "README.md",
     "Unbenannt.md",
     "Test/Test.md",
     "Test",
@@ -186,7 +191,6 @@
     "Party/Rhazzek.md",
     "Party/Friedhelm Brandgoldle.md",
     "Party/Mudan.md",
-    "NPC/Freundlich/Anführer des Trupps.md",
     "NPC/Tot/Feindlich/Marvin.md",
     "NPC/Tot/Feindlich",
     "NPC/Tot",
