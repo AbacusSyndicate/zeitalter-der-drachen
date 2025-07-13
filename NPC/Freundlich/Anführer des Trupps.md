@@ -1,1 +1,3 @@
-+ Ein mächtiger Kommandeur 
+# Derek
++ Ein mächtiger Kommandeur
++ Führt Erkundungstrupp
