@@ -1,0 +1,1 @@
++ Wird oft in Kombination mit [[Drakonischer Magier]] verwendet aufgrund der Immunität des Infiltrators gegen die Giftwolke des [[Drakonischer Magier|Drakonischen Magiers]] 
