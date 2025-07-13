@@ -1,0 +1,3 @@
+- General von Hope Keep
+- Tortle
+- Hat unsere Party bereits getroffen
