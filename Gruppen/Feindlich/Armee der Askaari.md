@@ -1,1 +1,1 @@
-+ Arbeitet zusammen mit den [[Chromatische Drachen|Chromatischen Drachen]]
++ besteht aus Kobolden, [[Chromatische Drachen|chromatischen Drachen]], Drakonischen- und normalen Humanoiden
