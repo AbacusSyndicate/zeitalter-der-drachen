@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gruppen/Freundlich/Militärische Gruppen/Aschenwacht.md",
+                "file": "Besondere Gegner/Armee der Askaari/Unbenannt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aschenwacht"
+              "title": "Unbenannt"
             }
           }
         ]
@@ -181,9 +181,11 @@
   },
   "active": "ed4a3ec36a0646ec",
   "lastOpenFiles": [
+    "Gruppen/Freundlich/Militärische Gruppen/Aschenwacht.md",
+    "Besondere Gegner/Armee der Askaari/Unbenannt.md",
+    "Besondere Gegner/Armee der Askaari",
     "NPC/Freundlich/Kommandeur Derek.md",
     "NPC/Freundlich/General Kharzokk.md",
-    "Gruppen/Freundlich/Militärische Gruppen/Aschenwacht.md",
     "Gruppen/Freundlich/Metallische Drachen.md",
     "Wichtige Ereignisse/2. Der Angriff auf Hopekeep.md",
     "Gruppen/Freundlich/Militärische Gruppen",
@@ -214,8 +216,6 @@
     "Gruppen/Neutral",
     "Gruppen/Freundlich",
     "Gruppen/Feindlich",
-    "Gruppen/Drachen",
-    "Drachengeborener.md",
-    "Willkommen.md"
+    "Drachengeborener.md"
   ]
 }
