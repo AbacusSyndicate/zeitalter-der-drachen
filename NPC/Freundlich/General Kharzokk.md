@@ -1,3 +1,4 @@
 - General von Hope Keep
 - Tortle
 - Hat unsere Party bereits getroffen
+- Hat die Party während dem [[2. Der Angriff auf Hopekeep|Angriff auf Hopekeep]] mit der Sicherung des [[Eidstein]] beauftragt  
