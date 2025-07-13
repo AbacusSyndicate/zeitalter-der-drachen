@@ -1,0 +1,1 @@
++ Wurde von [[Bahamut, der Platin Herr]] geschickt um den Auserwählten zu helfen

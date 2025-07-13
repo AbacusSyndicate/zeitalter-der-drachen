@@ -11,14 +11,14 @@
             "id": "ed4a3ec36a0646ec",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Wichtige Ereignisse/1. Tod und Wiedergeburt.md",
-                "bFile": "Wichtige Ereignisse/1. Tod und Wiedergeburt.md",
-                "aRef": ""
+                "file": "Wichtige Ereignisse/2. Der Angriff auf Hopekeep.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 1. Tod und Wiedergeburt"
+              "icon": "lucide-file",
+              "title": "2. Der Angriff auf Hopekeep"
             }
           }
         ]
@@ -181,9 +181,15 @@
   },
   "active": "ed4a3ec36a0646ec",
   "lastOpenFiles": [
-    "NPC/Freundlich/Kharzokk.md",
-    "NPC/Freundlich/Derek.md",
+    "Wichtige Items/Eidstein.md",
+    "Wichtige Ereignisse/2. Der Angriff auf Hopekeep.md",
+    "NPC/Freundlich/General Kharzokk.md",
+    "Party/Björndeldor.md",
+    "Wichtige Items/Boots of Elvenkind.md",
+    "Wichtige Items/Cloak of Protection.md",
+    "Wichtige Items/Sending Stones.md",
     "README.md",
+    "NPC/Freundlich/Derek.md",
     "Unbenannt.md",
     "Test/Test.md",
     "Test",
@@ -199,11 +205,7 @@
     "Gruppen/Feindlich/Armee der Askaari.md",
     "Gruppen/Feindlich/Chromatische Drachen.md",
     "Gruppen/Freundlich/Metallische Drachen.md",
-    "Wichtige Ereignisse/2. Der Angriff auf Hopekeep.md",
     "Wichtige Ereignisse/1. Tod und Wiedergeburt.md",
-    "Wichtige Items/Cloak of Protection.md",
-    "Wichtige Items/Boots of Elvenkind.md",
-    "Wichtige Items/Sending Stones.md",
     "NPC/Feindlich",
     "NPC/Freundlich",
     "Orte/Hopekeep.md",
