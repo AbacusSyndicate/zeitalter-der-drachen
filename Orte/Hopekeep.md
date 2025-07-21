@@ -1,1 +1,1 @@
-+ Hopekeep wurde von der [[Armee der Askaari]] angegriffen ([[2. Der Angriff auf Hopekeep|siehe hier]])
++ Hopekeep wurde von der [[Armee der Ashkaari]] angegriffen ([[2. Der Angriff auf Hopekeep|siehe hier]])
