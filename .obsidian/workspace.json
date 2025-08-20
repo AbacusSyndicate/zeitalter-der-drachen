@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gruppen/Feindlich/Armee der Ashkaari.md",
+                "file": "NPC/Freundlich/Senna.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Armee der Ashkaari"
+              "title": "Senna"
             }
           }
         ]
@@ -182,11 +182,13 @@
   },
   "active": "ed4a3ec36a0646ec",
   "lastOpenFiles": [
+    "Wichtige Ereignisse/2. Der Angriff auf Hopekeep.md",
+    "NPC/Freundlich/Senna.md",
+    "Gruppen/Feindlich/Armee der Ashkaari.md",
     "Gruppen/Freundlich/Militärische Gruppen von Emberkeep/Aschenwacht.md",
     "Party/Rhazzek.md",
     "Party/Thalorin Mareveil.md",
     "Party/Mudan.md",
-    "Wichtige Ereignisse/2. Der Angriff auf Hopekeep.md",
     "Wichtige Ereignisse/1. Tod und Wiedergeburt.md",
     "Party/Björndeldor.md",
     "NPC/Freundlich/Kommandeur Derek.md",
@@ -194,7 +196,6 @@
     "NPC/Tot/Feindlich/Marvin.md",
     "Gruppen/Feindlich/Chromatische Drachen.md",
     "Orte/Hopekeep.md",
-    "Gruppen/Feindlich/Armee der Ashkaari.md",
     "Drachen/Bahamut, der Platin Herr.md",
     "Drachen/Tiamat, die Fünfköpfige Königin.md",
     "Besondere Gegner/Armee der Ashkaari/Drakonischer Magier.md",
@@ -210,7 +211,6 @@
     "Unbenannt.md",
     "Test/Test.md",
     "Test",
-    "Party/Friedhelm Brandgoldle.md",
     "NPC/Tot/Feindlich",
     "NPC/Tot",
     "NPC/Feindlich",
