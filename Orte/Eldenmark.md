@@ -1,0 +1,2 @@
+- Kupfergasse (Viertel) hat eine Untergrundarena unter offizieller Arena am Rande der Stadt
+- Hoffnungsplatz (Marktplatz) hat Untergrundarena, Eingang ist aber noch unbekannt
