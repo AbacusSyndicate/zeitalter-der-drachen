@@ -1,1 +1,2 @@
 - Sei laut Gerüchten sehr tödlich, selbst von Askari Armee gemieden
+- Necromancer

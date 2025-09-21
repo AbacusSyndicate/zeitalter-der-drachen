@@ -1,1 +1,2 @@
 - Laut Gerüchten ist dort ein Vertedigungsmechanismus *in* der Stadt verborgen/integriert
+- Arschkari Armee
